@@ -1,0 +1,118 @@
+body {
+    background: #ccc;
+    font-family: Georgia, Times, serif;
+    color: #333;
+    margin: 0;
+    padding-top: 4rem;
+    padding-bottom: 6rem;
+}
+
+.container {
+    width: 95%;
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+.header {
+    background: #333;
+    color: white;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+.logo-nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.navigation ul li {
+    display: inline-block;
+}
+
+.navigation ul li a {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
+.navigation ul li a:hover {
+    background: rgb(99, 88, 88);
+    color: white;
+}
+
+.navigation ul li a:visited {
+    color: white;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
+
+a:visited {
+    background-color: white;
+    color: black;
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+img {
+    border: 3px solid black;
+}
+
+#titulo {
+    font-family: cursive;
+    color: rgb(105, 11, 11);
+    text-align: center;
+    background: cornsilk;
+}
+
+h2 {
+    font-family: cursive;
+    color: rgb(12, 10, 10);
+    text-align: center;
+}
+
+h5 {
+    font-family: cursive;
+    color: rgb(12, 10, 10);
+    text-align: center;
+}
+
+.mensaje {
+    background: rgb(111, 158, 245);
+    font-family: Georgia, Times, serif;
+    color: #333;
+    margin: 0 auto;
+    text-align: center;
+    width: 95%;
+    max-width: 950px;
+}
+
+h1 {
+    background: cornsilk;
+    text-align: center;
+    color: rgb(112, 11, 11);
+}
