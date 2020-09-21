@@ -1,0 +1,40 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px 50px;
+    color: black;
+    font-size: 11pt;
+}
+
+.derecha {
+    text-align: right;
+}
+
+h1 {
+    font-size: 15pt;
+}
+
+h2 {
+    font-size: 14pt;
+}
+
+.expon {
+    vertical-align: 2px;
+    font-size: small;
+}
+
+.subin {
+    vertical-align: -2px;
+    font-size: small;
+}
+
+.parder {
+    padding-left: 30px;
+}
+
+a:hover {
+    color: crimson;
+}
+
+a:visited {
+    color: darkslateblue;
+}
