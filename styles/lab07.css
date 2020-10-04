@@ -1,0 +1,125 @@
+body {
+    padding-top: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(168, 236, 248);
+    LINE-HEIGHT: 5px;
+}
+
+#h1 {
+    text-align: center;
+}
+
+input {
+    width: 8em;
+    border-color: rgb(197, 61, 7);
+    text-align: left;
+    font-size: 25px;
+    padding: 0.1em;
+}
+
+.alinear1 {
+    float: left;
+    margin-top: 0em;
+    padding-top: 2em;
+    padding-left: 8em;
+}
+
+.alinear2 {
+    float: left;
+    margin-top: 0em;
+    padding-top: 2em;
+    padding-left: 4em;
+}
+
+.formulario {
+    display: inline;
+    text-align: left;
+}
+
+#boton1 {
+    color: white;
+    font-size: 20px;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin-top: 0;
+    margin-right: 0.5em;
+    margin-left: 2em;
+    background-color: rgb(247, 179, 9);
+    border-color: white;
+    border-radius: 0.5em;
+}
+
+#boton2 {
+    font-size: large;
+    color: white;
+    font-size: 20px;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin-right: 2em;
+    margin-left: 0.5em;
+    background-color: rgb(196, 88, 68);
+    border-color: rgb(185, 107, 5);
+    border-radius: 0.5em;
+}
+
+label {
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    padding: 0.2em;
+}
+
+#uno {
+    padding-right: 3em;
+    padding-left: 1em;
+    margin-left: 3em;
+}
+
+#i1 {
+    width: 14em;
+    font-size: 25px;
+    padding: 0.1em;
+}
+
+#i2 {
+    width: 14.3em;
+    font-size: 25px;
+    padding: 0em;
+}
+
+#dos {
+    padding-right: 3.3em;
+    padding-left: 1em;
+    margin-left: 3em;
+}
+
+#tres {
+    padding-right: 0.38em;
+}
+
+#cuatro {
+    padding-right: 0em;
+}
+
+#cinco {
+    padding-right: 3.48em;
+}
+
+#seis {
+    padding-right: 0em;
+    background-color: red;
+}
+
+#siete {
+    padding-right: 6.3em;
+    background-color: red;
+}
+
+#ocho {
+    padding-right: 2.7em;
+    background-color: red;
+}
