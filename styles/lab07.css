@@ -2,7 +2,6 @@ body {
     padding-top: 3em;
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(168, 236, 248);
-    LINE-HEIGHT: 5px;
 }
 
 #h1 {
@@ -28,7 +27,7 @@ input {
     float: left;
     margin-top: 0em;
     padding-top: 2em;
-    padding-left: 4em;
+    padding-left: 8em;
 }
 
 .formulario {
@@ -59,7 +58,7 @@ input {
     padding-right: 3em;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-    margin-right: 2em;
+    margin-right: 0em;
     margin-left: 0.5em;
     background-color: rgb(196, 88, 68);
     border-color: rgb(185, 107, 5);
