@@ -20,16 +20,31 @@ body {
 .inmobiliario {
     color: white;
     background-color: red;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 6%;
+    padding-right: 6%;
+    font-weight: bold;
 }
 
 #politica {
     background-color: purple;
     color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 6%;
+    padding-right: 6%;
+    font-weight: bold;
 }
 
-#talento {
+.talento {
     background-color: yellow;
     color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 6%;
+    padding-right: 6%;
+    font-weight: bold;
 }
 
 .alinear1 {
@@ -37,8 +52,42 @@ body {
     float: left;
     padding-left: 2em;
     padding-right: 2em;
+    border-right: solid red 2px;
 }
 
 .negro {
     font-weight: bold;
+}
+
+.img {
+    float: right;
+    padding-bottom: 5%;
+}
+
+.oculto {
+    display: none;
+}
+
+hr {
+    height: 2px;
+    border: royalblue;
+    background-color: red;
+}
+
+.contenedor {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.alinear2 {
+    width: 20%;
+    float: left;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.lectura {
+    float: right;
 }
