@@ -1,8 +1,44 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 #l1 {
     color: red;
+    font-weight: bold;
+}
+
+#l2 {
+    color: yellow;
+    font-weight: bold;
+}
+
+#l3 {
+    color: purple;
+    font-weight: bold;
+}
+
+.inmobiliario {
+    color: white;
+    background-color: red;
+}
+
+#politica {
+    background-color: purple;
+    color: white;
+}
+
+#talento {
+    background-color: yellow;
+    color: white;
 }
 
 .alinear1 {
-    width: 25%;
+    width: 20%;
     float: left;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.negro {
+    font-weight: bold;
 }
